@@ -42,5 +42,7 @@ data.plot()
 plt.title('GDP of USA Over Time')
 plt.ylabel('GDP in USD')
 plt.show()
+
+
 Conclusion 🎉
 Fetching data from the WBData API is straightforward with Python. You can easily manipulate and visualize this data to gain insights into global economic trends. Happy coding! 👩‍💻👨‍💻
