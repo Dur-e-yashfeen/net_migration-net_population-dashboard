@@ -43,6 +43,8 @@ plt.title('GDP of USA Over Time')
 plt.ylabel('GDP in USD')
 plt.show()
 
+you can start this dasboard with open terminal open the env in which you install dash and write ls first then file appear in which dasboard are the type python dasboard.py and press enter button (make sure the speeling and  name are same of your file)
+
 
 Conclusion 🎉
 Fetching data from the WBData API is straightforward with Python. You can easily manipulate and visualize this data to gain insights into global economic trends. Happy coding! 👩‍💻👨‍💻
